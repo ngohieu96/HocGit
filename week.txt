@@ -1,2 +1,2 @@
 create file week.txt
-vao main
+vao main tu week
